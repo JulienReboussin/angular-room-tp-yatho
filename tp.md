@@ -24,7 +24,7 @@ Duration: 0:30:00
 - Migrer les tests unitaires pour la librairie jest
 - Ajouter la librairie material
 - Mise à jour du projet généré pour utiliser les standalones components (Optional)
-- Procédé à l'affichage d'une navbar material et d'un titre
+- Procéder à l'affichage d'une navbar material et d'un titre
 - Vérifier que les tests sont ok
 
 ## Chapitre 1 : Création d'un CRUD local
